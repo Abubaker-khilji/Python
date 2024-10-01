@@ -19,3 +19,7 @@ print(len(str1))
 print(len(str1.center(50)))
 print(a.count("khilji"))
 
+name = "abubaker"
+name.capitalize()
+print(name[1:-1])
+

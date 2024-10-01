@@ -1,5 +1,5 @@
-# a = input("Enter your name: ")
-# print("My name is", a)
+a = input("Enter your name: ")
+print("My name is", a)
 
 
 #a = input(int("Enter a number: ")	)  "wrong syntax   give literal error"

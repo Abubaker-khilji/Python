@@ -11,8 +11,8 @@ this is multiple string technique
 
 
 
-'''Revision 
-
+string_multiple ="Revision "
+'''
 1 - We can use ' ' ' to print 2 or more lines 
 2 - we can use escape sequence character  \"  to print ( " )  in string 
 3 - Programming language count numbers from 0 , for example:
@@ -30,3 +30,8 @@ Output : A
                R
                S
                H'''
+
+
+
+string_multiple = "dwjhkwdhclejlwq"
+"c" in  string_multiple
