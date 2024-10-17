@@ -22,4 +22,5 @@ print(a.count("khilji"))
 name = "abubaker"
 name.capitalize()
 print(name[1:-1])
-
+print(name.startswith("AB"))
+print(name.endswith("ker"))
