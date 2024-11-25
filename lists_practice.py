@@ -22,7 +22,7 @@ m = l.copy()
 
 k = l+m
 
-l.insert(25254122, "harrypotter")
+l.insert(25254122,5555)
 
 #l.extend(m)
 
