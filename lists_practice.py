@@ -23,7 +23,7 @@ m = l.copy()
 k = l+m
 
 l.insert(25254122,5555)
-
+#l.extend(m)
 #l.extend(m)
 
 print(l)

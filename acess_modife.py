@@ -10,6 +10,6 @@ class employee:
 
 a = employee()
 print(a.__name)
-print(a._employee__name)        # yeh name mangling hai es k zeriye access kr sktay
+print(a._employee__name)        # type: ignore # yeh name mangling hai es k zeriye access kr sktay
 print(a.__dir__())
  
