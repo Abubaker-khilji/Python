@@ -5,7 +5,7 @@ class employee:
 
 
     @classmethod
-    def changecompnay(cls,newcopany):
+    def changecompnay(cls,newcopany):#argument as a instance milta hai
             cls.company = newcopany
 
 e1 = employee()
